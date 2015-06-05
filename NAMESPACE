@@ -1,0 +1,2 @@
+import("Rcpp")
+export("sumC","varC")

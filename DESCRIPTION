@@ -1,0 +1,10 @@
+Package: MyPkg
+Type: Package
+Title: Calculating mean and variance
+Version: 1.0
+Date: 2015-06-04
+Author: Jahangir Alam <jahangir_statru63@yahoo.com>
+Maintainer: Jahangir Alam <jahangir_statru63@yahoo.com>
+Description: This package will calculate mean and variance using C++ functions.
+Depends: Rcpp
+License: GPL-2
